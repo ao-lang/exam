@@ -1,4 +1,3 @@
-{
-singles:[]
-multils:[]
+export default{
+    
 }
