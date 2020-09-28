@@ -4,7 +4,6 @@ import Single from '../views/Single.vue'
 import Multil from '../views/Multil.vue'
 import Comprehensive from '../views/Comprehensive.vue'
 import Home from '../views/Home.vue'
-import Search from '../views/Search.vue'
 
 
 
@@ -15,10 +14,6 @@ const routes = [
     path: '/single',
     name: 'Single',
     component: Single
-  },
-  {
-    path:'/search',
-    component:Search
   },
   {
     path: '/multil',
